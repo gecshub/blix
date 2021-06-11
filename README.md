@@ -5,7 +5,7 @@ Commands of Blix Bot
 <h1>Getting Started</h1>
 <p>No setup is needed for the bot. All you need to have is a voice channel and a text channel for the command. If you need more help <code>-help</code> for the full list of help commands.</p>
 <h1>Bot Commands</h1>
-<p>This is a list of some commands, to see the full version just type <code>+help</code> on your server.</p>
+<p>This is a list of some commands, to see the full version just type <code>-help</code> on your server.</p>
 <table>
 <thead>
 <tr>
