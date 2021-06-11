@@ -1,5 +1,5 @@
 # Blix
-Commands of Korou Bot
+Commands of Blix Bot
 
 <p>A discord music bot that plays music in your server/servers.<strong>
 <h1>Getting Started</h1>
